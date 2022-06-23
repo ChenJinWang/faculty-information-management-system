@@ -1,0 +1,35 @@
+﻿生成启动时间为 2019/6/19 星期三 10:35:00。
+     1>项目“C:\Users\Administrator\Desktop\C++论文\小组项目\Faculty information management system\Faculty information management system.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Faculty information management system.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Loging.cpp ScreenWnd.cpp
+         ScreenWnd.cpp
+         Loging.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\C++论文\小组项目\Debug\Faculty information management system.exe" /INCREMENTAL /NOLOGO VFW32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Desktop\C++论文\小组项目\Debug\Faculty information management system.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\C++论文\小组项目\Debug\Faculty information management system.lib" /MACHINE:X86 "Debug\Faculty information management system.res"
+         Debug\BtnST.obj
+         Debug\CGTeacher.obj
+         Debug\ChartDlg.obj
+         Debug\Clogin.obj
+         Debug\CmfcxxklDlg.obj
+         Debug\Cpage1.obj
+         Debug\Cpage2.obj
+         Debug\Cpage3.obj
+         "Debug\Faculty information management system.obj"
+         "Debug\Faculty information management systemDlg.obj"
+         Debug\GEditDlg.obj
+         Debug\GPersonList.obj
+         Debug\Graph.obj
+         Debug\GraphLegend.obj
+         Debug\GraphSeries.obj
+         Debug\Loging.obj
+         Debug\PictureEx.obj
+         Debug\ScreenWnd.obj
+         Debug\stdafx.obj
+         Debug\SuperChartDlg.obj
+         Faculty information management system.vcxproj -> C:\Users\Administrator\Desktop\C++论文\小组项目\Debug\Faculty information management system.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\C++论文\小组项目\Faculty information management system\Faculty information management system.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.20

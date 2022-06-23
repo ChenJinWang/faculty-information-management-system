@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Faculty information management system.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Faculty information management systemDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGTeacher.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPersonList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GEditDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChartDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenWnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Loging.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CmfcxxklDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cpage1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cpage2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cpage3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperChartDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\18移动2\ContactList\ContactList\Graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\18移动2\ContactList\ContactList\GraphLegend.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\18移动2\ContactList\ContactList\GraphSeries.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CApplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorksheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CFont0.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorkbooks.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorksheets.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWorkbook.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Clogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Faculty information management system.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Faculty information management systemDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGTeacher.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GPersonList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GEditDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChartDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenWnd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Loging.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CmfcxxklDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpage1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpage2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpage3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SuperChartDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphLegend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphSeries.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Clogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Faculty information management system.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Facultyinformationmanagementsystem.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\aero_link_xl.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\cursor2.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\aero_link.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\lappstrt.cur">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\lmove.cur">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Faculty information management system.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\toolbar2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timg.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon (1).ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon (2).ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon (3).ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon (4).ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\timg (7).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\20130807105320_mNS5y.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\u=2558356422,3685634607&amp;fm=26&amp;gp=0.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico 1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico 2.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico 3.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico 4.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico 5.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timg.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
